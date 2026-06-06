@@ -1,5 +1,227 @@
-# Startup Essential Documents Guide (Part 2)
+# Startup Essential Documents Guide (Complete Sections 1-18)
 
+---
+
+## 1. Articles of Incorporation
+**Establish your legal business identity and corporate framework.**
+
+### ARTICLES OF INCORPORATION
+
+**XYZ CORPORATIONS, INC.**
+* 📍 123 Innovation Drive, Suite 200, Austin, TX 78701, United States 
+* 📝 EIN: 88-1234567 | CIN: U72900KA2024PTC123456  
+* 📧 legal@xyzcorporations.com | 🌐 www.xyzcorporations.com  
+* 📞 +1 11 4123 4567  
+
+---
+
+The undersigned, acting as the incorporator of a corporation under the provisions of the Delaware General Corporation Law, hereby adopts the following Articles of Incorporation:
+
+#### ARTICLE I: NAME
+The name of the corporation is **XYZ Corporations, Inc.** (hereinafter referred to as the "Corporation").
+
+#### ARTICLE II: PURPOSE
+The purpose of the Corporation is to engage in any lawful act or activity for which corporations may be organized under the General Corporation Law of Delaware.
+
+#### ARTICLE III: AUTHORIZED SHARES
+The total number of shares of stock which the Corporation shall have authority to issue is **10,000,000 shares**, consisting of:
+* **8,000,000 shares** of Common Stock, par value $0.0001 per share.
+* **2,000,000 shares** of Preferred Stock, par value $0.0001 per share.
+
+#### ARTICLE IV: REGISTERED AGENT & OFFICE
+The address of the registered office of the Corporation in the State of Delaware is 1209 North Orange Street, Wilmington, New Castle County, Delaware 19801. The name of its registered agent at such address is The Corporation Trust Company.
+
+#### ARTICLE V: INCORPORATOR
+The name and mailing address of the incorporator are:
+* **Name:** John Doe  
+* **Address:** 123 Innovation Drive, Suite 200, Austin, TX 78701, United States  
+
+#### ARTICLE VI: BYLAWS
+The Board of Directors is expressly authorized to adopt, amend, or repeal the Bylaws of the Corporation, subject to any limitations contained therein.
+
+#### ARTICLE VII: INDEMNIFICATION
+The Corporation shall indemnify its directors and officers to the fullest extent permitted by applicable corporate law.
+
+---
+---
+
+## 2. Bylaws
+**Define your internal governance rules, board structures, and operations.**
+
+### CORPORATE BYLAWS OF XYZ CORPORATIONS, INC.
+
+#### ARTICLE I: OFFICES
+The principal office of the Corporation shall be located at 123 Innovation Drive, Suite 200, Austin, TX 78701, United States. The Corporation may have other offices as the Board of Directors may determine.
+
+#### ARTICLE II: SHAREHOLDERS
+* **Section 1. Annual Meeting:** The annual meeting of shareholders shall be held on a date designated by the Board of Directors for the purpose of electing directors and transacting business.
+* **Section 2. Special Meetings:** Special meetings may be called at any time by the Board of Directors, the President, or shareholders holding at least 25% of the voting stock.
+* **Section 3. Quorum:** A majority of the outstanding shares entitled to vote, represented in person or by proxy, shall constitute a quorum.
+
+#### ARTICLE III: BOARD OF DIRECTORS
+* **Section 1. General Powers:** The business and affairs of the Corporation shall be managed by or under the direction of its Board of Directors.
+* **Section 2. Number and Tenure:** The Board shall initially consist of three (3) directors. Each director shall hold office until the next annual meeting or until a successor is elected.
+* **Section 3. Regular Meetings:** Regular meetings of the Board may be held without notice at such time and place as determined by board resolution.
+
+#### ARTICLE IV: OFFICERS
+The officers of the Corporation shall consist of a President (CEO), a Secretary, and a Treasurer (CFO), each appointed by the Board of Directors.
+
+---
+---
+
+## 3. Non-Disclosure Agreement (NDA)
+**Protect proprietary ideas, intellectual property, and trade secrets.**
+
+### MUTUAL NON-DISCLOSURE AGREEMENT
+
+This Mutual Non-Disclosure Agreement ("Agreement") is entered into on this _____ day of ____________, 20____ ("Effective Date"), by and between:
+
+* **Party A:** XYZ Corporations, Inc., located at 123 Innovation Drive, Suite 200, Austin, TX 78701, United States.
+* **Party B:** ___________________________________________________________, located at ___________________________________________________________.
+
+#### 1. PURPOSE
+The Parties wish to evaluate a potential business relationship or transaction ("Purpose") during which they may disclose confidential business or technical information.
+
+#### 2. CONFIDENTIAL INFORMATION
+"Confidential Information" refers to any proprietary information disclosed by one party ("Disclosing Party") to the other ("Receiving Party"), whether orally or in writing, that is marked confidential or reasonably understood to be confidential.
+
+#### 3. OBLIGATIONS
+The Receiving Party agrees to:
+* Hold Confidential Information in strict confidence.
+* Use it solely for the defined Purpose.
+* Limit access to employees and advisors who need to know and are bound by confidentiality obligations.
+
+#### 4. TERM
+This Agreement and the obligation to protect Confidential Information shall remain in effect for a period of **three (3) years** from the Effective Date.
+
+---
+---
+
+## 4. IP Assignment Agreement
+**Ensure all code, designs, and innovations belong securely to the company.**
+
+### PROPRIETARY INFORMATION AND INVENTIONS AGREEMENT
+
+For good and valuable consideration, the receipt of which is acknowledged, the undersigned ("Contributor") agrees as follows for the benefit of **XYZ Corporations, Inc.**:
+
+#### 1. ASSIGNMENT OF INVENTIONS
+The Contributor hereby unconditionally assigns, transfers, and conveys to the Company all right, title, and interest worldwide in and to any ideas, inventions, designs, source code, data, documentation, and improvements created, conceived, or reduced to practice during their association with the Company ("Inventions").
+
+#### 2. WORK FOR HIRE
+The Contributor acknowledges that all copyrightable works made by them within the scope of their employment or engagement are "works made for hire" under applicable copyright laws and are the exclusive property of the Company.
+
+#### 3. ASSISTANCE
+The Contributor agrees to assist the Company in every proper way (at the Company's expense) to secure, maintain, and defend patents, copyrights, or other legal protections for such Inventions.
+
+---
+---
+
+## 5. Founder Agreement
+**Establish equity splits, vesting schedules, and roles among co-founders.**
+
+### FOUNDER COLLABORATION AGREEMENT
+
+This Founder Agreement is made as of _______________, 20____, by and among **John Doe** and **Jane Smith** (collectively, the "Founders") regarding the governance and equity structure of **XYZ Corporations, Inc.**.
+
+#### 1. EQUITY OWNERSHIP & SPLIT
+The initial equity interest in the Corporation shall be allocated as follows:
+* **John Doe:** 55% Ownership (5,500,000 Shares)
+* **Jane Smith:** 45% Ownership (4,500,000 Shares)
+
+#### 2. VESTING SCHEDULE
+All founder shares shall be subject to a **four (4) year linear vesting schedule** with a **one (1) year cliff**, distributed as follows:
+* 25% of the shares shall vest on the first anniversary of the start date.
+* The remaining 75% shall vest in equal monthly installments over the following thirty-six (36) months.
+
+#### 3. ROLES AND RESPONSIBILITIES
+* **John Doe:** Chief Executive Officer (CEO) – Responsible for overall strategy, operations, and fundraising.
+* **Jane Smith:** Chief Technology Officer (CTO) – Responsible for product development, engineering infrastructure, and technical architecture.
+
+---
+---
+
+## 6. Shareholder Agreement (SHA)
+**Outline investor rights, voting rules, and stock transfer restrictions.**
+
+### SHAREHOLDER AGREEMENT (SUMMARY SUMMARY)
+
+This Shareholder Agreement is executed between XYZ Corporations, Inc. and its signing Shareholders to structure corporate actions and protect equity distribution.
+
+#### 1. RIGHT OF FIRST REFUSAL (ROFR)
+If any Shareholder intends to transfer or sell any shares to a third party, the Company and the remaining Shareholders shall have a Right of First Refusal to purchase those shares on the same terms.
+
+#### 2. CO-SALE / TAG-ALONG RIGHTS
+If a majority shareholder sells their stake to a third party, minority shareholders have the right to join the transaction and sell their shares proportionally on identical terms.
+
+#### 3. DRAG-ALONG RIGHTS
+If the Board and holders of a majority of the voting shares approve a sale of the entire Company, all remaining shareholders must agree to the sale and tender their shares accordingly.
+
+#### 4. PRE-EMPTIVE RIGHTS
+Existing shareholders have the right to purchase their pro-rata share of any new stock issuances by the Company to protect against dilution.
+
+---
+---
+
+## 7. Investor Rights Agreement (IRA)
+**Grant major investors information, registration, and inspection privileges.**
+
+### INVESTOR RIGHTS AGREEMENT (KEY CLAUSES)
+
+#### 1. INFORMATION RIGHTS
+The Company shall deliver to each major investor holding a specified threshold of Series A Preferred Stock:
+* Unaudited quarterly financial statements within 45 days after the end of each quarter.
+* Audited annual financial statements within 90 days after the close of the fiscal year.
+* An annual operating budget at least 30 days prior to the start of the fiscal year.
+
+#### 2. REGISTRATION RIGHTS
+* **Demand Registration:** Major investors may demand that the Company file a registration statement with regulatory authorities to facilitate a public sale of stock.
+* **Piggyback Registration:** If the Company initiates a public offering of its securities, investors have the right to include their shares in the registration statement.
+
+#### 3. INSPECTION RIGHTS
+Major investors shall have the right, at their own expense, to visit and inspect the Company’s facilities, examine corporate books, and discuss company financials with management during standard business hours.
+
+---
+---
+
+## 8. Customer Contracts
+**Formalize commercial terms, service levels, limits, and payment rules.**
+
+### MASTER SERVICES AGREEMENT (MSA)
+
+This Master Services Agreement ("Agreement") is made by and between **XYZ Corporations, Inc.** ("Provider") and the entity executing an applicable Order Form ("Customer").
+
+#### 1. SERVICES PROVIDED
+Provider will deliver the software-as-a-service application, support, or consulting services described in mutually signed Order Forms.
+
+#### 2. FEES & PAYMENT
+* Customer will pay all fees set forth in the Order Form.
+* Invoices are payable **Net 30 days** from the invoice date.
+* Late payments are subject to a finance charge of 1.5% per month or the maximum legal rate, whichever is less.
+
+#### 3. LIMITATION OF LIABILITY
+In no event shall either party be liable for indirect, incidental, punitive, or consequential damages. Provider’s maximum aggregate liability shall not exceed the total fees paid by Customer in the twelve (12) months preceding the incident.
+
+---
+---
+
+## 9. Vendor Contracts
+**Manage supplier relationships, delivery timelines, and risk mitigation.**
+
+### VENDOR SERVICES AGREEMENT
+
+#### 1. ENGAGEMENT
+The signing Vendor agrees to perform the services and supply the deliverables specified in Statement of Work (SOW) documents issued under this framework agreement.
+
+#### 2. WARRANTIES
+Vendor warrants that all deliverables will be original work, will perform substantially in accordance with documentation, and will be completed in a professional, workmanlike manner.
+
+#### 3. INDEMNIFICATION
+Vendor shall defend, indemnify, and hold harmless XYZ Corporations, Inc. from any third-party claims alleging that the deliverables infringe upon intellectual property rights, patent protections, or copy copyrights.
+
+#### 4. TERMINATION FOR CONVENIENCE
+The Company may terminate this Agreement or any pending SOW without cause by providing **thirty (30) days advance written notice** to the Vendor.
+
+---
 ---
 
 ## 10. Employee Contracts
@@ -7,7 +229,8 @@
 
 ### EMPLOYMENT AGREEMENT
 
-**XYZ CORPORATIONS, INC.** * 📍 123 Innovation Drive, Suite 200, Austin, TX 78701, United States  
+**XYZ CORPORATIONS, INC.**
+* 📍 123 Innovation Drive, Suite 200, Austin, TX 78701, United States  
 * 📝 EIN: 88-1234567 | CIN: U72900KA2024PTC123456  
 * 📧 hr@xyzcorporations.com | 🌐 www.xyzcorporations.com  
 * 📞 +1 11 4123 4567  
@@ -53,7 +276,8 @@ The Employee will be eligible for other benefits as per the Company's policies, 
 
 ### OFFER LETTER
 
-**May 15, 2024** Mr./Ms. [Candidate Name]  
+**May 15, 2024**  
+Mr./Ms. [Candidate Name]  
 [Address Line 1]  
 [Address Line 2]  
 [City, State – ZIP Code]  
@@ -89,7 +313,8 @@ You will also be eligible for other benefits as per the Company's policies.
 We are excited about the opportunity to have you on our team and look forward to a long and successful association with you.
 
 Yours sincerely,  
-**Rahul Sharma** Founder & CEO  
+**Rahul Sharma**  
+Founder & CEO  
 XYZ Corporations, Inc.  
 
 ---
