@@ -48,3 +48,28 @@ This comprehensive curated list highlights some of the most valuable, open-sourc
 * **Repository:** [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
 * **Description:** Learn how to design large-scale web applications and prepare comprehensively for system design interviews. Includes structured analysis diagrams, concrete case-studies, and integrated Anki flashcards.
 * **Best Used For:** Senior engineers, architects, and candidates preparing for backend scalability or systems-architecture evaluation loops.
+
+## 10. Developer Roadmaps
+* **Repository:** [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+* **Description:** Community-driven, interactive educational roadmaps, guides, and paths to help developers choose their growth trajectory and systematically study a discipline (e.g., DevOps, Frontend, Backend, QA, Software Architect).
+* **Best Used For:** Planning professional career paths, determining tech-stack milestones, and keeping pace with industry skills.
+
+## 11. Public APIs
+* **Repository:** [public-apis/public-apis](https://github.com/public-apis/public-apis)
+* **Description:** A massive, collectively curated list of free, public application programming interfaces (APIs) organized by domain (such as weather, analytics, currencies, and data sets) to build modern digital products.
+* **Best Used For:** Sourcing mock data or production web services for application prototypes, side-projects, and dashboards without authentication headaches.
+
+## 12. JavaScript Algorithms
+* **Repository:** [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
+* **Description:** A dedicated space for data structures and algorithmic models built entirely in JavaScript. Each pattern features clean documentation, practical syntax code blocks, and deep-dive logic explanations.
+* **Best Used For:** Frontend and full-stack engineers looking to master algorithms natively in JavaScript for tech assessments and optimal framework rendering.
+
+## 13. Tech Interview Handbook
+* **Repository:** [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
+* **Description:** Curated technical and behavioral interview preparation resources structured perfectly for busy software engineers. It covers coding cheat sheets, design templates, and operational matrices.
+* **Best Used For:** Engineering candidates needing efficient, time-saving interview strategies and answers to common organizational or technical hiring questions.
+
+## 14. Project Based Learning
+* **Repository:** [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning)
+* **Description:** An exceptional directory of programming tutorials where aspiring software engineers learn how to build production-ready applications from scratch across multiple languages and architectures.
+* **Best Used For:** Advancing theoretical syntax knowledge into tangible engineering solutions by tracking a diverse variety of online project guides.
