@@ -2,6 +2,16 @@
 
 This guide is designed for developers who want to improve their interaction with AI coding assistants (like Claude, Cursor, GitHub Copilot, etc.) by structuring their project codebase to provide better context, standards, and reusable instructions.
 
+## Index for Navigation
+- [Introduction](#1-introduction)
+- [Directory Structure Overview](#2-directory-structure-overview)
+- [Implementation Details](#3-implementation-details)
+    - [Adapters](#a-root-level-adapters-agentsmd-claudemd)
+    - [Project Context](#b-project-context-docsai)
+    - [Skill Templates](#c-reusable-skill-templates-skills)
+    - [Automation](#d-automation-templates-github)
+- [How to Get Started](#4-how-to-get-started)
+
 ## 1. Introduction
 The goal of this framework is to turn your project repository into a self-documenting environment that AI models can easily parse. By providing clear instructions and standardized policies, you reduce hallucinations, ensure code consistency, and speed up development.
 
@@ -49,13 +59,3 @@ Use `.github/pull_request_template.md` to ensure that every PR submitted (even b
 
 ---
 
-## 5. Index for Navigation
-- [Introduction](#1-introduction)
-- [Directory Structure Overview](#2-directory-structure-overview)
-- [Implementation Details](#3-implementation-details)
-    - [Adapters](#a-root-level-adapters-agentsmd-claudemd)
-    - [Project Context](#b-project-context-docsai)
-    - [Skill Templates](#c-reusable-skill-templates-skills)
-    - [Automation](#d-automation-templates-github)
-- [How to Get Started](#4-how-to-get-started)
-"""
