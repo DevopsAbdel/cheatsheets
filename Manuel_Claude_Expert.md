@@ -151,4 +151,5 @@ R : Assurez-vous d'anonymiser vos données critiques. Ne soumettez jamais d'iden
 | **Le texte sonne trop robotique ou artificiel.** | Manque d'indications stylistiques dans la requête. | Fournissez un échantillon de vos écrits et demandez-lui : *"Imite le ton, la concision et la structure du texte suivant : [Votre texte]"*. |
 | **La réponse s'arrête brutalement en plein milieu.** | Limite de caractères par message atteinte. | Ne relancez pas tout le prompt. Écrivez simplement *"Continue"* ou *"Poursuis ta rédaction à partir du mot [dernier mot écrit]"*. |
 | **Claude hallucine ou invente des faits.** | Manque de sources ou consignes trop ouvertes. | Verrouillez sa liberté d'action : *"Base-toi uniquement sur le document fourni ci-dessus. Si l'information n'y figure pas, réponds explicitement que tu ne sais pas."* |
+
 *Ce document constitue le support de référence pour votre apprentissage. Utilisez-le au quotidien pour concevoir vos requêtes et valider votre certification.*
